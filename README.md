@@ -1,2 +1,2 @@
 # cv_ekaterina
-https://cv_ekaterina.github.io/
+https://samusevabsu.github.io/cv_ekaterina/

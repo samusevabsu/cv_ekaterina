@@ -253,7 +253,7 @@ body {
 }
 
 .contacts-item:nth-child(5):before {
-  background-image: url("assets/svg/5.svg");
+  background-image: url("assets/svg/2.svg");
 }
 
 .footer {
@@ -276,8 +276,8 @@ body {
 }
 
 .rss {
-  width: 121px;
-  height: 45px;
+  width: 800px;
+  height: 100px;
   background-image: url("./assets/svg/rss.svg");
   background-size: contain;
   background-repeat: no-repeat;
